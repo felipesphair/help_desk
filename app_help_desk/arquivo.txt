@@ -1,0 +1,6 @@
+
+Parou de funcionar # Impressora # ela não imprimi corretamente
+ele não abre # Software # estou no local host mas nao abre
+3 # Desliga do nada # Hardware # Após 5 minutos ligado ele desliga sem motivos.
+2 # Meu nootebook não conecta a rede local # Rede # Meu nootebook não conecta a rede local
+
